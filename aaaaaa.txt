@@ -1,1 +1,14 @@
-PISKI
+<!DOCTYPE html>
+<style>
+.green-text {
+    color: #82fe02;
+}
+.pink-text {
+    color: #b700ff;
+}
+</style>
+
+<head> 
+<h2 class="green-text"> Я фанат Евангелиона</h2>
+<h2 class="pink-text"> и этим всё сказано</h2>
+</head>
